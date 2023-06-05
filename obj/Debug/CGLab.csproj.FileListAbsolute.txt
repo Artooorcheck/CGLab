@@ -1,0 +1,10 @@
+C:\Users\Артур\source\repos\CGLab\CGLab\bin\Debug\CGLab.exe.config
+C:\Users\Артур\source\repos\CGLab\CGLab\bin\Debug\CGLab.exe
+C:\Users\Артур\source\repos\CGLab\CGLab\bin\Debug\CGLab.pdb
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.Form1.resources
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.Properties.Resources.resources
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.exe
+C:\Users\Артур\source\repos\CGLab\CGLab\obj\Debug\CGLab.pdb
